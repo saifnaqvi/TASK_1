@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TASK_1</string>
+    <string name="default_layout">Default Layout\n</string>
+    <string name="click_me">Click Me\n</string>
+    <string name="alternative_layout">Alternate Layout\n</string>
+    <string name="click_me_1">Click Me\n</string>
+</resources>
